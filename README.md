@@ -4,7 +4,7 @@
   </p>
   <p>
   <a href ="https://weibo.com/xiaohou0222?is_all=1">
-    <img width="18" height="18" src="https://github.com/winks459/winks459/blob/master/img/ic_weibo.svg?sanitize=true" />
+    <img width="18" height="18" src="https://github.com/winks459/winks459/blob/master/img/ic_weibo.svg" />
     </a>
     |  
     <a href ="https://weibo.com/xiaohou0222?is_all=1">Webo</a>
