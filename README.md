@@ -2,7 +2,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=winks&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
   </p>
-  <p>
+  <p align="center">
     <a href ="mailto:605322850@qq.com">
       <img width="16" height="16" src="https://github.com/winks459/winks459/blob/master/img/e-mail.svg?sanitize=true" />
     </a>
