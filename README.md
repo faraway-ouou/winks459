@@ -12,7 +12,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href ="https://blog.csdn.net/qq_33722930">
-      <img width="40" height="40" src="https://github.com/winks459/winks459/blob/master/img/ic_blog.svg?sanitize=true" />
+      <img width="30" height="30" src="https://github.com/winks459/winks459/blob/master/img/ic_blog.svg?sanitize=true" />
     </a>
   </p>
 </div>
